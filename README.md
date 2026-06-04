@@ -45,5 +45,9 @@ composer dump-autoload
 php artisan rewards:install
 ~~~
 
+~~~
+php artisan optimize:clear
+~~~
+
 > That's it, now just execute the project on your specified domain.
 
